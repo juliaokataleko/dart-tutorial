@@ -17,4 +17,7 @@ void main() {
   print(cores);
   print(cores.contains("Azul"));
   print(cores.indexOf("Azul"));
+
+  // print first
+  print(cores[0]);
 }
